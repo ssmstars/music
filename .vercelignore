@@ -1,0 +1,26 @@
+# Vercel ignore file
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.venv
+venv/
+ENV/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.log
+
+# Don't upload large dataset to Vercel (causes timeout)
+data/spotify_million_songs.csv
+# Note: Keep data/music_data.csv for fallback dataset
+
+# Git files
+.git/
+.gitignore
