@@ -694,8 +694,7 @@ SOFTWARE.
 
 ## 🙏 Acknowledgments
 
-### Inspiration & Resources
-- Original concept inspired by [harteij19/music-recommendation-app-python](https://github.com/harteij19/music-recommendation-app-python)
+### Inspiration & Resource
 - **OpenWeatherMap** for comprehensive weather API
 - **Scikit-learn** team for excellent ML algorithms and documentation
 - **Flask** community for the lightweight web framework
